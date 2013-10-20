@@ -1,0 +1,7 @@
+Info (10281): Verilog HDL Declaration information at defenders.v(103): object "GAMEOVER" differs only in case from object "gameOver" in the same scope
+Info (10281): Verilog HDL Declaration information at defenders.v(123): object "gameOver" differs only in case from object "gameover" in the same scope
+Info (10281): Verilog HDL Declaration information at defenders.v(103): object "GAMEOVER" differs only in case from object "gameover" in the same scope
+Warning (10268): Verilog HDL information at drawing.v(15): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at drawing.v(89): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at drawing.v(126): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at drawing.v(163): always construct contains both blocking and non-blocking assignments

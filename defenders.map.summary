@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Dec 03 00:02:45 2012
+Quartus II 32-bit Version : 11.1 Build 173 11/01/2011 SJ Web Edition
+Revision Name : defenders
+Top-level Entity Name : defenders
+Family : Cyclone II
+Total logic elements : 14,703
+    Total combinational functions : 12,943
+    Dedicated logic registers : 6,033
+Total registers : 6033
+Total pins : 140
+Total virtual pins : 0
+Total memory bits : 357,120
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

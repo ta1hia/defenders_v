@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Dec 03 00:04:59 2012
+Quartus II 32-bit Version : 11.1 Build 173 11/01/2011 SJ Web Edition
+Revision Name : defenders
+Top-level Entity Name : defenders
+Family : Cyclone II
+Device : EP2C35F672C6
+Timing Models : Final
+Total logic elements : 13,274 / 33,216 ( 40 % )
+    Total combinational functions : 12,945 / 33,216 ( 39 % )
+    Dedicated logic registers : 6,033 / 33,216 ( 18 % )
+Total registers : 6033
+Total pins : 140 / 475 ( 29 % )
+Total virtual pins : 0
+Total memory bits : 357,120 / 483,840 ( 74 % )
+Embedded Multiplier 9-bit elements : 0 / 70 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

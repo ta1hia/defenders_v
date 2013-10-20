@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="defenders">
+		<CBX_INST_ENTRY INSTANCE_NAME="|defenders|vga_adapter:VGA|altsyncram:VideoMemory" CBX_FILE_NAME="altsyncram_5tf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|defenders|backgroundROMS:backgroundROMS_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_cl71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|defenders|catROMS:catROMS_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_qv61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|defenders|dead_invaderROMS:dead_invaderROMS_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_lg71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|defenders|gameoverROM:gameoverROM_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_2f71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|defenders|invaderROMS:invaderROMS_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_q671.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|defenders|winnerROM:winnerROM_inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_v871.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

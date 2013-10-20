@@ -1,0 +1,68 @@
+Quartus II Archive log --	C:/Users/Buster/Desktop/241 Defenders/defenders_v/defenders_tmp_archive.qarlog
+
+Archive:	C:/Users/Buster/Desktop/241 Defenders/defenders_v/defenders_tmp_archive.qar
+Date:		Tue Nov 27 12:14:16 2012
+Quartus II 32-bit		11.1 Build 173 11/01/2011 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/Waveform.vwf
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/Waveform1.vwf
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/Waveform2.vwf
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/background.mif
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/backgroundROMS.qip
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/backgroundROMS.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/backgroundROMS_bb.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/backgroundROMS_inst.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/bullets.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/catROMS.qip
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/catROMS.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/catROMS_bb.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/catROMS_inst.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/collision.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/db/defenders.sim.vwf
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/dead_invaderROMS.qip
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/dead_invaderROMS.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/dead_invaderROMS_bb.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/defenders.qpf
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/defenders.qsf
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/defenders.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/drawing.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/gameover.mif
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/gameoverROM.qip
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/gameoverROM.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/gameoverROM_bb.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/gameoverROM_inst.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/happy_invaderROMS.qip
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/happy_invaderROMS.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/happy_invaderROMS_bb.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/happy_invaderROMS_inst.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/incremental_db/compiled_partitions/defenders.db_info
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/invader.mif
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/invader.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/invaderROMS.qip
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/invaderROMS.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/invaderROMS_bb.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/invaderROMS_inst.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/nyan.mif
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/redinvader.mif
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/signalprobe_qsf.tcl
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/start.mif
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/vga_adapter/vga_adapter.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/vga_adapter/vga_address_translator.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/vga_adapter/vga_controller.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/vga_adapter/vga_pll.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/winner.mif
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/winnerROM.qip
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/winnerROM.v
+C:/Users/Buster/Desktop/241 Defenders/defenders_v/winnerROM_bb.v
+s:/documents/altera11.1/quartus/bin/assignment_defaults.qdf
+	======= Total: 51 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Nov 27 12:14:20 2012
+Source archive file:	C:/Users/Buster/Desktop/241 Defenders/defenders_v/defenders_tmp_archive.qar
+Archive was extracted into	C:/Users/Buster/Desktop/241 Defenders/defenders_v_copy/
+		 - successfully.
