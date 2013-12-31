@@ -1,4 +1,4 @@
 defenders_v
 ===========
 
-my ECE241 project
+FPGA arcade game written in Verilog. Nyan cat saves the world!
